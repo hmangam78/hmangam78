@@ -8,7 +8,7 @@ Outside of code, you’ll usually find me playing guitar, hanging out with dogs,
 [![hgamiz-g's 42 stats](https://badge.mediaplus.ma/greenbinary/hgamiz-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## My GitHub stats
-![hmangam78's Stats](https://github-readme-stats.vercel.app/api?username=hmangam78&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![hmangam78's Stats](https://github-readme-stats-fork-8xn2-git-main-hector-gamizs-projects.vercel.app/api?username=hmangam78&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![hmangam78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmangam78&theme=tokyonight&hide_border=true)
 ![hmangam78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmangam78&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
