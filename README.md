@@ -2,7 +2,7 @@
 I'm Héctor, currently working through the Common Core at 42 School Málaga.
 I enjoy tackling projects that force me to think deeply and design robust solutions. Among the challenges at 42, Minishell has been my favorite so far—its countless edge cases made it a perfect playground for problem-solving and system-level reasoning. I also enjoyed so_long because it let me build something visual and tangible, even though game development isn’t the direction I'm pursuing.
 
-Outside of code, you’ll usually find me playing guitar, hanging out with dogs, or spending time with my family.
+Outside of code, you’ll usually find me playing guitar, hanging out with my dog, or spending time with my family.
 
 ## My stats at 42
 [![hgamiz-g's 42 stats](https://badge.mediaplus.ma/greenbinary/hgamiz-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
