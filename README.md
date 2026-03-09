@@ -7,7 +7,7 @@ Outside of code, you’ll usually find me playing guitar, hanging out with my do
 ## My stats at 42
 [![hgamiz-g's 42 stats](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/stats?cursusId=21&coalitionId=275)](https://42badge.vercel.app)
 
-[![hgamiz-g's 42 ft_transcendence Score](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4743666)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/4743666)
+[![hgamiz-g's 42 ft_transcendence Score]https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4743666)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/4743666)
 
 [![hgamiz-g's 42 ft_irc Score](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4725702)](https://projects.intra.42.fr/projects/ft_irc/projects_users/4725702)
 
