@@ -7,9 +7,9 @@ Outside of code, you’ll usually find me playing guitar, hanging out with my do
 ## My stats at 42
 [![hgamiz-g's 42 stats](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/stats?cursusId=21&coalitionId=275)](https://42badge.vercel.app)
 
-[![hgamiz-g's 42 ft_transcendence Score]https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4743666)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/4743666)
+ft_transcendence [![hgamiz-g's 42 ft_transcendence Score] https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4743666)](https://projects.intra.42.fr/projects/ft_transcendence/projects_users/4743666)
 
-[![hgamiz-g's 42 ft_irc Score](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4725702)](https://projects.intra.42.fr/projects/ft_irc/projects_users/4725702)
+ft_irc [![hgamiz-g's 42 ft_irc Score](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/project/4725702)](https://projects.intra.42.fr/projects/ft_irc/projects_users/4725702)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
