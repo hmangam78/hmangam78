@@ -1,14 +1,14 @@
 ## Hi, I'm Hector
 
-Backend developer with a strong interest in systems programming, backend architecture, and AI-powered applications.
+Backend developer interested in systems programming, scalable backend architecture, and AI-powered applications.
 
-I recently completed the Common Core at 42 Málaga Fundación Telefónica, where I worked on projects involving Unix systems, concurrent networking, and backend development using technologies such as C, C++, Node.js, TypeScript, PostgreSQL, and Python.
+I recently completed the Common Core at 42 Málaga Fundación Telefónica, where I worked on projects involving Unix systems, concurrent networking, and backend development using C, C++, Node.js, TypeScript, PostgreSQL, and Python.
 
-Some of the projects I enjoyed the most include building a Unix shell (Minishell) and a concurrent IRC server, which allowed me to explore process management, networking, and low-level system behavior. I also worked on a multiplayer full-stack application with a Node.js/NestJS backend.
+One of my most interesting projects was Transcendence, a 3D multiplayer online game platform where each player’s character is dynamically personalized using data from the 42 intranet, turning students’ real academic progress into RPG-style attributes and customization. Building it involved designing REST APIs, handling concurrent sessions, and integrating external services to create a data-driven multiplayer experience.
 
 I'm currently exploring Generative AI, LLM integrations, and backend systems that interact with external APIs and data sources.
 
-Outside of coding, I enjoy playing guitar, spending time with my family, and going for walks with my dog.
+Outside of coding, I enjoy playing guitar, spending time with my family, and walking my dog.
 
 ## My stats at 42
 [![hgamiz-g's 42 stats](https://42badge.vercel.app/api/v2/cmmjcsbw50000hpxmq7oh6wxz/stats?cursusId=21&coalitionId=275)](https://42badge.vercel.app)
