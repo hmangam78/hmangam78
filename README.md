@@ -41,3 +41,5 @@ Outside of coding, I enjoy playing guitar, spending time with my family, and wal
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hmangam78&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![hgamiz-g's 42 stats](https://badge.mediaplus.ma/kettlebells/hgamiz-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
